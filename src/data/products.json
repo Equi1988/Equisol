@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Xbox X",
+        "description": "Consola Xbox Xbox",
+        "code": "",
+        "price": 300,
+        "status": true,
+        "stock": 50,
+        "category": "Consolas"
+    },
+    {
+        "id": 3,
+        "title": "Nintendo",
+        "description": "Consola Nintendo 64",
+        "code": "",
+        "price": 300,
+        "status": true,
+        "stock": 20,
+        "category": "Consolas"
+    }
+]
